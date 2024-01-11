@@ -4,4 +4,6 @@ def greet():
 # call the function
 greet()
 
+var code = "asnj"
+ let sumit;
 print('Outside function')
